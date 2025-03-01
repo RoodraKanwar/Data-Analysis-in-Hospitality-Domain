@@ -1,16 +1,20 @@
 # Data-Analysis-in-Hospitality-Domain
 
-## Key Findings about Hospitality Domain:
-There were a lot of terms I wasn't familiar with prevalent in hospitality domain. These terms are-
+Did you know that in the hospitality domain, Friday and Saturday are considered weekends, while the rest of the days are counted as weekdays?
+
+# Metrics used for Hospitality Domain:
+While working with hospitality data, I encountered several industry-specific terms that were unfamiliar to me. Here are some key metrics used in the hospitality domain:
+
+## Metrics
 
 1. RevPAR (Revenue Per Available Room)
-This metric is used to measure hotel performance by multiplying hotel's Average Daily Room Rate (ADR) by its Occupancy Rate. It can also be calculated by dividing the Total Revenue by the Number of Rooms Available. 
+This metric measures hotel performance by multiplying the hotel's Average Daily Rate (ADR) by its Occupancy Rate. It can also be calculated by dividing the total revenue by the number of available rooms.
 
 2. ADR (Average Daily Rate)
-This metric indicates the average revenue earned for an occupied room on a given day.
+This metric indicates the average revenue earned per occupied room on a given day.
 
 3. Occupancy Rate
-This ratio indicates the ratio of occupied to total usable rental space.
+This metric represents the ratio of occupied rooms to the total number of usable rental spaces.
 
 ## Performance Metrics
 1. DSRN (Daily Sellable Room Nights)
@@ -23,7 +27,7 @@ This metric indicates the total number of room nights that have been booked for 
 This metric indicates the total number of room nights that were actually occupied and utilized by guests on a given day. This excludes cancellations and no-shows.
 
 4. Realisation
-This metric indicate the actual revenue or yield generated per booking after accounting for discounts, cancellations, and other adjustments. It often refers to the percentage of booked revenue that is successfully realized.
+This metric indicates the actual revenue or yield generated per booking after accounting for discounts, cancellations, and other adjustments. It often refers to the percentage of booked revenue that is successfully realized.
   
 5. Cancellation
 This metric indicates total number of bookings that were canceled before the stay date. This can be expressed as a number or a percentage of total bookings.
