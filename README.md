@@ -28,11 +28,5 @@ This metric indicate the actual revenue or yield generated per booking after acc
 5. Cancellation
 This metric indicates total number of bookings that were canceled before the stay date. This can be expressed as a number or a percentage of total bookings.
 
-Report generation and findings using Power BI. This will be updated once the dashboard is complete
-![Screenshot 2025-02-28 181339](https://github.com/user-attachments/assets/cc49d0f2-fc7b-416f-9bc7-beecb045260c)
-
-Delhi 
-![Screenshot 2025-02-28 183329](https://github.com/user-attachments/assets/4fe64271-82bb-403d-84ec-b57f68c60d16)
-
-Mumbai - Premium Room
-![Screenshot 2025-02-28 183427](https://github.com/user-attachments/assets/0750e663-641e-44ef-82ce-c52e239fc9e5)
+## Demo of the Dashboard
+![Screenshot 2025-02-28 193417](https://github.com/user-attachments/assets/047959a3-866b-4f9d-990f-7abe54f9fa78)
